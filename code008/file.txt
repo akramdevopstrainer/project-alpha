@@ -1,0 +1,1 @@
+This is some content in file.txt on the hotfix branch Monday
