@@ -1,2 +1,3 @@
 This is some content in file.txt on the hotfix branch
 This is some content in file.txt on the new_feature branch new_feature
+ok
